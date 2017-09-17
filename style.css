@@ -1,0 +1,36 @@
+body {
+  background-color: #768491;
+}
+
+.jumbotron {
+  margin-top: 100px;
+  text-align: center;
+}
+
+img {
+  width: 35%;
+  padding-bottom: 15px;
+}
+
+.fa {
+  font-size: 50px;
+  width: 30px;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.6;
+}
+
+.fa1 {
+    padding: 30px;
+}
+
+.fa2 {
+text-align: center;
+text-decoration: none;
+font-size: 30px;
+width: 30px;
+}
